@@ -114,6 +114,10 @@ If the app cannot connect:
 - Make sure the app is using the current `VITE_API_BASE_URL`.
 - Restart the Vite app after any `.env` change.
 
+<img width="1800" height="968" alt="image" src="https://github.com/user-attachments/assets/8b30c449-5f7a-41f2-8723-27c40a16ad6c" />
+
+<img width="1091" height="910" alt="image" src="https://github.com/user-attachments/assets/c48988e5-2575-4709-9b1b-8193393bc3b6" />
+
 Common issues:
 
 - CORS: The backend must allow requests from the browser's local Vite port.
